@@ -1,5 +1,4 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc facilisis
-venenatis felis, scelerisque consectetur lacus viverra in. Phasellus
+ Phasellus
 scelerisque pretium nibh, ac porttitor massa vestibulum non. Aenean ornare
 convallis enim, et semper neque sagittis ut. Proin blandit dui vitae quam
 fermentum, non lacinia lectus molestie. Vivamus tempus viverra dui. Cras in
@@ -7,12 +6,6 @@ luctus felis. Pellentesque dictum tortor ipsum, id iaculis felis ultrices ut.
 Nunc id velit dignissim, suscipit est ac, euismod libero. Phasellus fringilla,
 nibh sit amet consectetur auctor, lorem magna euismod ante, tempor lobortis mi
 mi sagittis odio. Donec fermentum sem vel neque pulvinar eleifend.
-
-Nullam posuere condimentum rutrum. Vivamus vitae elit a tellus interdum
-accumsan. Duis pretium viverra condimentum. Curabitur dapibus aliquet semper.
-Aliquam pretium nunc aliquam pellentesque molestie. Suspendisse potenti. In a
-erat sed ante rutrum commodo. Fusce congue nunc aliquet tellus dignissim
-fringilla.
 
 Cras non odio gravida, blandit risus sed, tempor lectus. Donec vel congue
 mauris. Donec ultrices malesuada dictum. Suspendisse molestie pulvinar quam eu
