@@ -17,4 +17,3 @@ It provides info on --patch:
 "Often when we're ready to commit our changes, we'll run git add . or git add --all, but these are a bit coarse. We can use the more focused form where we name files or directories to stage, for instance git add Gemfile, but even this can be too coarse if we have distinct change sets within a single file.
 
 Instead, we can use the --patch flag to tell Git that we would like to review each group of changed lines individually, and choose whether or not to stage them."
-
