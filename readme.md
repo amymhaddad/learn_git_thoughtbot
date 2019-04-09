@@ -10,4 +10,4 @@ It provides info on --patch:
 It also provides info on reset:
 "Note, with the above cherry-pick operation, as with all Git operations, Git does not destroy or edit commits, but instead simply creates new ones. This means that the two commits as authored are still on our master branch.
 
-We can solve this by reseting our master branch to align it with origin/master, essentially erasing the original commits (although Git still remembers just in case; Git's got our back)."
+We can solve this by reseting our master branch to align it with origin/master, essentially erasing the original commits (although Git still remembers just in case; Git's got our back)."Learning Git
