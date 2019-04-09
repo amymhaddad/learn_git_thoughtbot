@@ -1,6 +1,4 @@
 
-Practice repo to learn Git with Thoughtbot:
-
 
 According to thoughtbot.com:
 
@@ -8,9 +6,6 @@ According to thoughtbot.com:
 
 Instead, you can simply go to work, coding and figuring things out as comes natural. Whenever you're ready you can then focus on version control and commit your changes."
 
-It goes on to add:
-
-"While this kind of freedom is invaluable, it doesn't always lead to the most straightforward history. Luckily for us, Git provides many ways to craft our history, arranging it to tell the story of building a feature as we'd want, rather than being stuck with the wandering sequence of changes we initially created."
 
 It provides info on --patch:
 
