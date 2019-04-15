@@ -2,12 +2,11 @@
 
 According to thoughtbot.com:
 
+"Before moving on, we do want to highlight that this course is not intended to be your introduction to Git, but instead expects that you're familiar with core operations like staging and committing files, branching, viewing the log, and pushing to GitHub. If you're not quite there, we recommend starting with a few introductory resources, then coming back here when you're ready:
 
 It provides info on --patch:
 
-"Often when we're ready to commit our changes, we'll run git add . or git add --all, but these are a bit coarse. We can use the more focused form where we name files or directories to stage, for instance git add Gemfile, but even this can be too coarse if we have distinct change sets within a single file."
 
-It also provides info on reset:
-"Note, with the above cherry-pick operation, as with all Git operations, Git does not destroy or edit commits, but instead simply creates new ones. This means that the two commits as authored are still on our master branch.
+"One of the key features of my command line Git workflow is having the current Git context always displayed as part of the prompt. In particular, the prompt will display each of the following (depending on the current Git context):
 
 We can solve this by reseting our master branch to align it with origin/master, essentially erasing the original commits (although Git still remembers just in case; Git's got our back)." 
